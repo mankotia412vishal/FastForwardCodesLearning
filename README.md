@@ -44,3 +44,9 @@ package.json - manifest file contains important info about project/package
 The package-lock.json file is automatically generated
 
 ```
+
+- To install node module just install 
+
+```
+node install 
+```
